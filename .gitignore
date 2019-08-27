@@ -1,0 +1,7 @@
+﻿/.idea/
+/.vs/
+
+Debug/
+x64/
+
+*.user
